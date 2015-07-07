@@ -1,0 +1,8 @@
+c:\users\cyy\documents\visual studio 2013\Projects\Watch website\Watch website\bin\Debug\Watch website.exe
+c:\users\cyy\documents\visual studio 2013\Projects\Watch website\Watch website\bin\Debug\Watch website.pdb
+c:\users\cyy\documents\visual studio 2013\Projects\Watch website\Watch website\bin\Debug\Watch website.xml
+c:\users\cyy\documents\visual studio 2013\Projects\Watch website\Watch website\obj\Debug\Watch_website.Resources.resources
+c:\users\cyy\documents\visual studio 2013\Projects\Watch website\Watch website\obj\Debug\Watch website.vbproj.GenerateResource.Cache
+c:\users\cyy\documents\visual studio 2013\Projects\Watch website\Watch website\obj\Debug\Watch website.exe
+c:\users\cyy\documents\visual studio 2013\Projects\Watch website\Watch website\obj\Debug\Watch website.xml
+c:\users\cyy\documents\visual studio 2013\Projects\Watch website\Watch website\obj\Debug\Watch website.pdb
