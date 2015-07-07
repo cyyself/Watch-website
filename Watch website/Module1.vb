@@ -34,10 +34,9 @@ Module Module1
                         System.Diagnostics.Process.Start(url)
                         Exit Do
                     End If
-
                 End If
-                System.Threading.Thread.Sleep(5000)
             End If
+            System.Threading.Thread.Sleep(5000)
         Loop
         Console.ReadKey()
     End Sub
